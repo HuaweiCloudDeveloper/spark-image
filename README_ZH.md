@@ -20,11 +20,9 @@
 ## ‌核心特点
 
 - **高速计算‌：** 通过内存存储中间数据减少磁盘I/O，迭代计算性能显著优于Hadoop MapReduce。‌
-
 - **‌统一引擎‌：** 整合批处理、流处理（Spark Streaming）、机器学习（MLlib）、图计算（GraphX）和SQL查询（Spark SQL）于单一框架。‌
-
 - **易用性‌：** 提供高级API（如DataFrame、Dataset）和交互式Shell（Spark Shell），支持多语言编程。‌
-‌容错机制‌：基于RDD（弹性分布式数据集）的Lineage容错和检查点机制，确保数据可靠性。‌
+- **‌容错机制‌：** 基于RDD（弹性分布式数据集）的Lineage容错和检查点机制，确保数据可靠性。‌
 
 本项目提供的开源镜像商品 [**Spark分布式计算引擎**](https://marketplace.huaweicloud.com/hidden/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336) 已预先安装3.4.4版本的Spark及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
