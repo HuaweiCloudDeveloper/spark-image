@@ -145,7 +145,7 @@ cd $SPARK_HOME/sbin
 ## Spark使用
 * Web查看 SparkUI  IP+8080访问UI
 
-![img_1.png](images/img9_1.png) 
+![img_1.png](images/img9_1.png)
 
 * 运行示例程序：
 ```shell
