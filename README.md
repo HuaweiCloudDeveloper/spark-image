@@ -24,7 +24,7 @@ This product provides an out-of-the-box Spark computing platform based on the Hu
 - **Ease of Use**: Provides high-level APIs (such as DataFrame and Dataset) and an interactive shell (Spark Shell), supporting multi-language programming.
 - **Fault Tolerance Mechanism**: Based on the Lineage fault tolerance and checkpoint mechanism of RDDs (Resilient Distributed Datasets), it ensures data reliability.
 
-The open-source image product [**Spark Distributed Computing Engine**](https://marketplace.huaweicloud.com/intl/hidden/contents/bfab1544-a53b-4b72-8616-577993465729) provided by this project has pre-installed Spark version 3.4.4 and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
+The open-source image product [**Spark Distributed Computing Engine**](https://marketplace.huaweicloud.com/intl/hidden/contents/bfab1544-a53b-4b72-8616-577993465729) provided by this project has pre-installed Spark and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
@@ -40,6 +40,7 @@ The open-source image product [**Spark Distributed Computing Engine**](https://m
 | Image Specification                                                                                                | Feature Description | Remarks |
 |------------------------------------------------------------------------------------------------------------------| --- | --- |
 | [spark-3.4.4-kunpeng](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.4.4-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [spark-3.2.0-kunpeng-CuckooSQL](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.2.0-kunpeng-CuckooSQL) Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 
