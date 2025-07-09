@@ -37,10 +37,10 @@ The open-source image product [**Spark Distributed Computing Engine**](https://m
 
 ## Image Description
 
-| Image Specification                                                                                                | Feature Description | Remarks |
-|------------------------------------------------------------------------------------------------------------------| --- | --- |
-| [spark-3.4.4-kunpeng](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.4.4-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
-| [spark-3.2.0-kunpeng-CuckooSQL](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.2.0-kunpeng-CuckooSQL) Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| Image Specification                                                                                                      | Feature Description | Remarks |
+|--------------------------------------------------------------------------------------------------------------------------| --- | --- |
+| [spark-3.4.4-kunpeng](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.4.4-kunpeng)                      | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [spark-3.2.0-kunpeng-CuckooSQL](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.2.0-kunpeng-CuckooSQL)  | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 
