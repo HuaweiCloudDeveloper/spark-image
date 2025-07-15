@@ -24,7 +24,7 @@
 - **易用性‌：** 提供高级API（如DataFrame、Dataset）和交互式Shell（Spark Shell），支持多语言编程。‌
 - **‌容错机制‌：** 基于RDD（弹性分布式数据集）的Lineage容错和检查点机制，确保数据可靠性。‌
 
-本项目提供的开源镜像商品 [**Spark分布式计算引擎**](https://marketplace.huaweicloud.com/hidden/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336) 已预先安装3.4.4版本的Spark及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Spark分布式计算引擎**](https://marketplace.huaweicloud.com/hidden/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336) 已预先安装Spark及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 > **系统要求如下：**
@@ -40,6 +40,7 @@
 | 镜像规格                                                                                                | 特性说明 | 备注 |
 |-----------------------------------------------------------------------------------------------------| --- | --- |
 | [spark-3.4.4-kunpeng](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.4.4-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [spark-3.2.0-kunpeng-CuckooSQL](https://github.com/HuaweiCloudDeveloper/spark-image/tree/spark-3.2.0-kunpeng-CuckooSQL) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/spark-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
