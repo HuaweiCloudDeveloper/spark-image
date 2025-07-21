@@ -1,7 +1,7 @@
 # spark-3.2.0-kunpeng-CuckooSQL
 
 ## 规格说明
-- 镜像商品：[Spark分布式计算引擎](https://marketplace.huaweicloud.com/hidden/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336)
+- 镜像商品：[Spark分布式计算引擎](https://marketplace.huaweicloud.com/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1151775536970985472)
 - 镜像规格：spark-3.2.0-kunpeng-CuckooSQL
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
