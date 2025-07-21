@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Spark分布式计算引擎](https://marketplace.huaweicloud.com/hidden/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1126357985762062336)
+[Spark分布式计算引擎](https://marketplace.huaweicloud.com/contents/f64209ef-b251-4d92-b560-ff21acf86e09#productid=OFFI1151775536970985472)
 
 # 二、商品说明
 
