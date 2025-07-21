@@ -24,7 +24,7 @@ This product provides an out-of-the-box Spark computing platform based on the Hu
 - **Ease of Use**: Provides high-level APIs (such as DataFrame and Dataset) and an interactive shell (Spark Shell), supporting multi-language programming.
 - **Fault Tolerance Mechanism**: Based on the Lineage fault tolerance and checkpoint mechanism of RDDs (Resilient Distributed Datasets), it ensures data reliability.
 
-The open-source image product [**Spark Distributed Computing Engine**](https://marketplace.huaweicloud.com/intl/hidden/contents/bfab1544-a53b-4b72-8616-577993465729) provided by this project has pre-installed Spark and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
+The open-source image product [**Spark Distributed Computing Engine**](https://marketplace.huaweicloud.com/intl/hidden/contents/39049b38-adb4-4250-a432-5b7134f5b531) provided by this project has pre-installed Spark and its related operating environment, and provides deployment templates. Come and refer to the usage guide to easily start an efficient "out-of-the-box" experience!
 
 > **System requirements are as follows:**
 > - CPU: 2vCPUs or higher
